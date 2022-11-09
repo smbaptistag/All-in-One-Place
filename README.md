@@ -62,7 +62,7 @@ The following machine learning algorithms were used to predict sales:
 The silhouette score for each model by study space is indicated bellow:
 
 <div align="center">
-<img src="https://github.com/smbaptistag/All-in-One-Place/blob/main/images/results_models.png" width="1000px" border="10px">
+<img src="https://github.com/smbaptistag/All-in-One-Place/blob/main/images/results_models.png" width="1200px" border="10px">
 </div>
 </br>
 
@@ -74,7 +74,7 @@ The k-Means of the first table was considered as the final model for a number k 
 It was used AWS plataform (S3, EC2 and RDS) to deploy this project. The following schema was used to deploy this project.
 
 <div align="center">
-<img src="https://github.com/smbaptistag/All-in-One-Place/blob/main/images/schema_deploy.png" width="800px" border="10px">
+<img src="https://github.com/smbaptistag/All-in-One-Place/blob/main/images/schema_deploy.png" width="1000px" border="10px">
 </div>
 </br>
 
