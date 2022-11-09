@@ -68,13 +68,13 @@ The silhouette score for each model by study space is indicated bellow:
 
 As we can see, the best results are found in the models that ran on the UMAP embedding space used on the supervised Random Forest Regressor model. In the supervised model (Random Forest Regressor) the target used was Gross Revenue.
 
-The k-Means of the first table was considered as the final model for a number k = 10. This number of clusters is not the one that presents the best result, but it is considered the best to suit the business problem in question, not showing much difference in terms of Silhouette Score for the best result.
+The k-Means of the first chart was considered as the final model for a number k = 10. This number of clusters is not the one that presents the best result, but it is considered the best to suit the business problem in question, not showing much difference in terms of Silhouette Score for the best result.
 
 # 7. DEPLOYMENT
 It was used AWS plataform (S3, EC2 and RDS) to deploy this project. The following schema was used to deploy this project.
 
 <div align="center">
-<img src="https://github.com/smbaptistag/All-in-One-Place/blob/main/images/schema_deploy.png" width="1000px" border="10px">
+<img src="https://github.com/smbaptistag/All-in-One-Place/blob/main/images/schema_deploy.png" width="900px" border="10px">
 </div>
 </br>
 
